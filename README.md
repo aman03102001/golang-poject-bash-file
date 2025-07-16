@@ -1,0 +1,1 @@
+# golang-poject-bash-file
